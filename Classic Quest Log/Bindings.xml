@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="CLASSIC_QUEST_LOG_TOGGLE" header="CLASSIC_QUEST_LOG" category="ADDONS">
+		ClassicQuestLog:ToggleWindow()
+	</Binding>
+</Bindings>
